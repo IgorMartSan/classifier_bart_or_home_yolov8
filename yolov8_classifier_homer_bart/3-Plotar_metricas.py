@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 
-results_path = './runs/classify/train3/results.csv'
+results_path = './runs/classify/train2/results.csv'
 
 results = pd.read_csv(results_path)
 
