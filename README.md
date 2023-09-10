@@ -15,7 +15,7 @@ https://docs.ultralytics.com/quickstart/#conda-docker-image
 
 Instalar depencdencias com o poetry: 
 
-Não testei se vai funcionar !!
+Comando para instalar dependências
 
 poetry shell
 
